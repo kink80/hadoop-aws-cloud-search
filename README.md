@@ -12,5 +12,4 @@ To get this working
  - fill AWS access credentials into config.properties
  - fill Cloud Search domain to use in config.properties
  - set correct mapping in config.properties
- - 
  
